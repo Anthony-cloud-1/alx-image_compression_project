@@ -1,0 +1,17 @@
+{
+  "name": "alx_image_compression_project",
+  "version": "1.0.0",
+  "description": "ALX Image Compression Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-jpeg-recompress": "^7.1.0",
+    "imagemin-pngquant": "^9.0.2"
+  }
+}
