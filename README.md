@@ -33,7 +33,7 @@ The ALX Image Compression Project is a web application that allows users to uplo
    ```
 2. Navigate to the project directory:
    ```sh
-   cd alx_image_compression_project
+   cd alx-image_compression_project
    ```
 3. Install the dependencies:
    ```sh
