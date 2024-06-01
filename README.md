@@ -25,6 +25,11 @@ The ALX Image Compression Project is a web application that allows users to uplo
 - `imagemin`, `imagemin-jpeg-recompress`, and `imagemin-pngquant` for image compression
 - Netlify for deployment and serverless function execution
 
+## Screenshot
+![Screenshot](main/img/Image Compress 1.png)
+
+![Screenshot](main/img/Image Compress 2.png)
+
 ## Installation and Setup
 
 1. Clone the repository:
