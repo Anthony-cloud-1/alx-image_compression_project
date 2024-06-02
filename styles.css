@@ -36,7 +36,7 @@ nav ul li a {
 }
 
 .intro .cover-image {
-    width: 100%;
+    display: none;
 }
 
 .intro h1 {
@@ -73,7 +73,7 @@ nav ul li a {
 
 .feature img {
     width: 100%;
-    max-width: 300px;
+/*     max-width: 300px; */
 }
 
 .feature h3 {
@@ -88,6 +88,10 @@ nav ul li a {
 .about h2 {
     text-align: center;
     margin-bottom: 2rem;
+}
+
+.about p {
+    text-align: center;
 }
 
 .team {
