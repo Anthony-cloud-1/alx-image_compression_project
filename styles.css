@@ -100,6 +100,11 @@ nav ul li a {
     margin-top: 2rem;
 }
 
+.team_title {
+    text-align: center;
+    padding: 20px;
+}
+
 .member {
     text-align: center;
 }
