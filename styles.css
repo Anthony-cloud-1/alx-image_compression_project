@@ -30,7 +30,7 @@ nav ul li a {
 .intro {
     text-align: center;
     padding: 2rem;
-    background: url('path/to/your/cover-image.jpg') no-repeat center center;
+    background: url('main/img/cover-image.png') no-repeat center center;
     background-size: cover;
     color: white;
 }
