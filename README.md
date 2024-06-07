@@ -30,6 +30,8 @@ The ALX Image Compression Project is a web application that allows users to uplo
 
 ![Screenshot](https://github.com/Anthony-cloud-1/alx-image_compression_project/blob/main/main/img/imagecompress2.png)
 
+![Screenshot](https://github.com/Anthony-cloud-1/alx-image_compression_project/blob/main/main/img/imagecompress3.png)
+
 ## Installation and Setup
 
 1. Clone the repository:
