@@ -13,6 +13,8 @@
     - [main.css](#maincss)
     - [compress_files.js](#compress_filesjs)
 6. [Authors](#authors)
+7. [Contributions](#contributions)
+8. [License](#license)
 
 ## Project Overview
 
@@ -102,7 +104,7 @@ This file contains the metadata and dependencies for the project.
 - Anthony Sackey
 - Calvin Sewornu
 
-  ## Contribute
+## Contributions
 
 Contributions are always welcome!
 Please read the [contribution guidelines](CONTRIBUTE.md) first.
