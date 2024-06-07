@@ -99,3 +99,14 @@ This file contains the metadata and dependencies for the project.
 
 - Anthony Sackey
 - Calvin Sewornu
+
+  ## Contribute
+
+Contributions are always welcome!
+Please read the [contribution guidelines](CONTRIBUTE.md) first.
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Anthony Sackey](https://github.com/Anthony-cloud-1) has waived all copyright and related or neighboring rights to this work.
