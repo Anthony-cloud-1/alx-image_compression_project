@@ -49,6 +49,11 @@ The ALX Image Compression Project is a web application that allows users to uplo
    npm install
    ```
 4. Deploy the project on Netlify or any other serverless platform that supports Node.js.
+   
+5. For localhost deployment
+   ```sh
+   netlify dev
+   ```
 
 ## Usage
 
